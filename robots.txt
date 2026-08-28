@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ethanreg005.github.io/hipobuy-spreadsheet-purchase-question-card/sitemap.xml
